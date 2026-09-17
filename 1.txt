@@ -1,0 +1,10 @@
+1. ATM Withdrawal System
+
+A customer wants to withdraw money from an ATM.
+
+Rules:
+
+If the withdrawal amount is less than or equal to 0, display "Invalid Amount".
+If the amount is greater than the account balance, display "Insufficient Balance".
+If the amount is not a multiple of 100, display "Enter amount in multiples of 100".
+Otherwise, approve the withdrawal and display the remaining balance.
