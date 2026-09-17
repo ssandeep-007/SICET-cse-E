@@ -1,0 +1,11 @@
+5. Online Shopping Discount
+
+An online shopping application gives discounts based on purchase amount:
+
+Below ₹1,000 → No discount
+₹1,000–₹4,999 → 5%
+₹5,000–₹9,999 → 10%
+₹10,000 and above → 20%
+
+Display the final payable amount.
+---------------------------------
