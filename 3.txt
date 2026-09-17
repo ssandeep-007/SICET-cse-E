@@ -1,0 +1,12 @@
+3. Student Grade Calculator
+
+Read marks of a student.
+
+90–100 → Grade A
+80–89 → Grade B
+70–79 → Grade C
+60–69 → Grade D
+50–59 → Grade E
+Below 50 → Fail
+Marks outside 0–100 → Invalid Marks
+--------------------------------------------------
