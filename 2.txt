@@ -1,0 +1,13 @@
+2. Electricity Bill Calculator
+
+An electricity board calculates the bill based on units consumed:
+
+First 100 units → ₹2/unit
+Next 100 units → ₹3/unit
+Above 200 units → ₹5/unit
+
+Read the number of units and calculate the total bill.
+
+---------------------------------------------------------------------
+
+
